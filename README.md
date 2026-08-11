@@ -3,7 +3,9 @@
 CrushCloud官网地址</br>
 最新地址：[crush91.cc](https://crush91.cc/#/register?code=c6S2AGCw)</br>
 官方地址：[crush91.cc](https://crush91.cc/#/register?code=c6S2AGCw)</br>
-⚠️：检测自己网络环境是否带IPv6（关闭代理打开）
+
+⚠️：[检测](https://to.iix.im/v6)自己网络环境是否带IPv6（关闭代理打开）
+![image](https://github.com/jdnei/crush/blob/main/crush/20260811-155729.jpg?raw=ture)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
@@ -33,10 +35,14 @@ Crush Cloud主打低价大流量纯IPv6节点，4元/月150GB起，支持流媒�
 | 600G-月付 | ¥14.3/月 | 600GB/月 | ❌ |
 | 1T-月付 | ¥24/月 | 1024GB/月 | ❌ |
 | 2T-月付 | ¥40/月 | 2048GB/月 | ❌ |
-## 📊 性能实测与分析  
-#### 1.晚高峰测速表现  
-![image](?raw=ture)  
-#### 2.流媒体解锁报告  
-![image](?raw=ture)    
-#### 3.落地入口分析  
-![image](?raw=ture)
+## 📊 性能实测与分析
+#### 1.1联通晚高峰测速表现
+![image](https://github.com/jdnei/crush/blob/main/crush/0937850934509325lt.png?raw=ture)</br>
+#### 1.2电信晚高峰测速表现
+![image](https://github.com/jdnei/crush/blob/main/crush/4370127340214dx.jpg?raw=ture)</br>
+#### 1.3移动晚高峰测速表现
+![image](https://github.com/jdnei/crush/blob/main/crush/4092309450325yd.jpg?raw=ture)</br>
+#### 2.流媒体解锁报告
+![image](https://github.com/jdnei/crush/blob/main/crush/204012937402137test.jpg?raw=ture)</br>  
+#### 3.落地入口分析
+![image](https://github.com/jdnei/crush/blob/main/crush/403520938509328405ana.png?raw=ture)</br>
