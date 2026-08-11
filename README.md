@@ -5,7 +5,7 @@ CrushCloud  Crush云机场机场官网地址</br>
 最新地址：[crush91.cc](https://to.iix.im/cr01)</br>
 官方地址：[crush91.cc](https://to.iix.im/cr01)</br>
 
-⚠️：[检测](https://to.iix.im/v6)自己网https://to.iix.im/cr01环境是否带IPv6（关闭代理打开）</br>
+⚠️：[检测](https://to.iix.im/v6)自己网络环境是否带IPv6（关闭代理打开）</br>
 `不符合IPv6条件的不要买`</br>
 ![image](https://github.com/jdnei/crush/blob/main/crush/20260811-155729.jpg?raw=ture)</br>
 
