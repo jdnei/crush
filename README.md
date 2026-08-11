@@ -1,10 +1,12 @@
 
 # CrushCloud官方地址(2026年8月11日更新)
 CrushCloud官网地址</br>
+
 最新地址：[crush91.cc](https://crush91.cc/#/register?code=c6S2AGCw)</br>
 官方地址：[crush91.cc](https://crush91.cc/#/register?code=c6S2AGCw)</br>
 
-⚠️：[检测](https://to.iix.im/v6)自己网络环境是否带IPv6（关闭代理打开）
+⚠️：[检测](https://to.iix.im/v6)自己网络环境是否带IPv6（关闭代理打开）</br>
+`不符合IPv6条件的不要买`</br>
 ![image](https://github.com/jdnei/crush/blob/main/crush/20260811-155729.jpg?raw=ture)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
