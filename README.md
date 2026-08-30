@@ -1,5 +1,5 @@
 
-# CrushCloud Crush云机场官方地址(2026年8月29日更新)
+# CrushCloud Crush云机场官方地址(2026年8月30日更新)
 CrushCloud  Crush云机场机场官网地址</br>
 
 最新地址：[crush91.cc](https://to.iix.im/cr01)</br>
