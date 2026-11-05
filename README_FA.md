@@ -1,7 +1,5 @@
  🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 فارسی
-
-# آدرس رسمی VPN کراش‌کلاد (CrushCloud) - به‌روزرسانی ۲ نوامبر ۲۰۲۶
-
+# آدرس رسمی VPN کراش‌کلاد (CrushCloud) -(به‌روزرسانی 4 نوامبر 2026)
 وب‌سایت رسمی VPN کراش‌کلاد (CrushCloud)<br>
 
 جدیدترین آدرس: [crush91.cc](https://to.iix.im/cr01)<br>
