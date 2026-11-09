@@ -1,7 +1,7 @@
 🇨🇳 中文 | 🇺🇸 [English](README_EN.md) | 🇷🇺 
 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# CrushCloud Crush云机场官方地址(2026年11月8日更新)
+# CrushCloud Crush云机场官方地址(2026年11月9日更新)
 CrushCloud  Crush云机场机场官网地址</br>
 
 最新地址：[crush91.cc](https://to.iix.im/cr01)</br>
