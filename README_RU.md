@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 [English](README_EN.md) | 🇷🇺 Русский | 🇮🇷 [فارسی](README_FA.md)
 
-# Официальный сайт CrushCloud VPN (обновлено 11 ноября 2026)
+# Официальный сайт CrushCloud VPN (обновлено 12 ноября 2026)
 
 Официальный сайт VPN-сервиса CrushCloud<br>
 
